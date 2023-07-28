@@ -1,5 +1,5 @@
 # notable
-Built for MesoHacks 2022 and Hack to School 2022
+Built for the virtual online hackathons: MesoHacks 2022 and Hack to School 2022
 
 Have you ever missed a class and never been able to catch up with the lesson?
 Have you ever forgotten to write down a vital part of your notes and failed your test?
